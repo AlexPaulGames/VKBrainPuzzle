@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093702361016",
+    "project_id": "brain-puzzle-418a2",
+    "storage_bucket": "brain-puzzle-418a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093702361016:android:cc8b726e9817cdbe74394d",
+        "android_client_info": {
+          "package_name": "com.APgames.BrainPuzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093702361016-t7d39eudi9m028uiachc52mj9roi6121.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt0_k0IHWsM4Rz3STPCSOHnWEpb1azsCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093702361016-t7d39eudi9m028uiachc52mj9roi6121.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
